@@ -8,3 +8,5 @@ elif 60 >= edad:
     print("clase senior")
 else:
     print ("si eres menor de 13 no puede entrar")
+
+#< menor > mayor 
