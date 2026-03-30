@@ -98,6 +98,5 @@ while i != 0:
         except ValueError:
                 print ("error")
                 continue
-
-    if ingresar_estudiantes :
+    elif ingresar_estudiantes :
         float(input("datos: "))
