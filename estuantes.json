@@ -1,0 +1,202 @@
+{
+    "1": {
+        "ID": [
+            1234567890
+        ],
+        "Nombre": [
+            "Luisa"
+        ],
+        "Edad": 10,
+        "Curso": 5,
+        "Estado": "inactiva"
+    },
+    "2": {
+        "ID": [
+            1122334455
+        ],
+        "Nombre": [
+            "Daniela"
+        ],
+        "Edad": 11,
+        "Curso": 6,
+        "Estado": "activa"
+    },
+    "3": {
+        "ID": [
+            1677889900
+        ],
+        "Nombre": [
+            "Juan"
+        ],
+        "Edad": 12,
+        "Curso": 7,
+        "Estado": "inactivo"
+    },
+    "4": {
+        "ID": [
+            1112223334
+        ],
+        "Nombre": [
+            "Silvia"
+        ],
+        "Edad": 10,
+        "Curso": 5,
+        "Estado": "activa"
+    },
+    "5": {
+        "ID": [
+            1445556667
+        ],
+        "Nombre": [
+            "Gabriel"
+        ],
+        "Edad": 11,
+        "Curso": 6,
+        "Estado": "inactivo"
+    },
+    "6": {
+        "ID": [
+            1445556667
+        ],
+        "Nombre": [
+            "Roy"
+        ],
+        "Edad": 11,
+        "Curso": 6,
+        "Estado": "activo"
+    }
+}{
+    "1": {
+        "id": [
+            1234567890
+        ],
+        "nombre": [
+            "Luisa"
+        ],
+        "edad": 10,
+        "curso": 5,
+        "estado": "inactiva"
+    },
+    "2": {
+        "id": [
+            1122334455
+        ],
+        "nombre": [
+            "Daniela"
+        ],
+        "edad": 11,
+        "curso": 6,
+        "estado": "activa"
+    },
+    "3": {
+        "id": [
+            1677889900
+        ],
+        "nombre": [
+            "Juan"
+        ],
+        "edad": 12,
+        "curso": 7,
+        "estado": "inactivo"
+    },
+    "4": {
+        "id": [
+            1112223334
+        ],
+        "nombre": [
+            "Silvia"
+        ],
+        "edad": 10,
+        "curso": 5,
+        "estado": "activa"
+    },
+    "5": {
+        "id": [
+            1445556667
+        ],
+        "nombre": [
+            "Gabriel"
+        ],
+        "edad": 11,
+        "curso": 6,
+        "estado": "inactivo"
+    },
+    "6": {
+        "id": [
+            1445556667
+        ],
+        "nombre": [
+            "Roy"
+        ],
+        "edad": 11,
+        "curso": 6,
+        "estado": "activo"
+    }
+}{
+    "1": {
+        "id": [
+            1234567890
+        ],
+        "nombre": [
+            "Luisa"
+        ],
+        "edad": 10,
+        "curso": 5,
+        "estado": "inactiva"
+    },
+    "2": {
+        "id": [
+            1122334455
+        ],
+        "nombre": [
+            "Daniela"
+        ],
+        "edad": 11,
+        "curso": 6,
+        "estado": "activa"
+    },
+    "3": {
+        "id": [
+            1677889900
+        ],
+        "nombre": [
+            "Juan"
+        ],
+        "edad": 12,
+        "curso": 7,
+        "estado": "inactivo"
+    },
+    "4": {
+        "id": [
+            1112223334
+        ],
+        "nombre": [
+            "Silvia"
+        ],
+        "edad": 10,
+        "curso": 5,
+        "estado": "activa"
+    },
+    "5": {
+        "id": [
+            1445556667
+        ],
+        "nombre": [
+            "Gabriel"
+        ],
+        "edad": 11,
+        "curso": 6,
+        "estado": "inactivo"
+    },
+    "6": {
+        "id": [
+            1445556667
+        ],
+        "nombre": [
+            "Roy"
+        ],
+        "edad": 11,
+        "curso": 6,
+        "estado": "activo"
+    }
+}

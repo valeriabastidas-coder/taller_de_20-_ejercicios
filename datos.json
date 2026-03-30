@@ -1,0 +1,29 @@
+{
+    "1": {
+        "nombre": "Luisa",
+        "edad": 22,
+        "ciudad": "Quilla",
+        "habilidades": [
+            "Python",
+            "JSON"
+        ]
+    },
+    "2": {
+        "nombre": "Jander",
+        "edad": 23,
+        "ciudad": "Barranquilla",
+        "habilidades": [
+            "Python",
+            "Java"
+        ]
+    },
+    "3": {
+        "nombre": "Hillary",
+        "edad": 19,
+        "ciudad": "Medellin",
+        "habilidades": [
+            "JavaScript",
+            "HTML"
+        ]
+    }
+}
